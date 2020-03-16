@@ -2,7 +2,8 @@ module.exports = function noMoreGlobalTrade(mod) {
 	mod.hook('S_CHAT', 3, e => {
 		if (!mod.settings.enabled) return;
 		if (e.channel != 27) return;
-		return !e.message.toLowerCase().includes(/^(wts|wtb|wtt)/g);
+
+		return /(wts|wtb|wtt)/g.test(e.message.toLowerCase());
 	});
 
 	mod.command.add('globaltrade', (args) => {
