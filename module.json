@@ -1,0 +1,18 @@
+{
+	"author": "Kitty",
+	"description": "tera-toolbox module to block trading (WTS/WTB/WTT) messages in global chat",
+	"disableAutoUpdate": false,
+	"name": "no-more-global-trade",
+	"options": {
+		"niceName": "No more global trade",
+		"reloadable": true,
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "settings.js"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Phr3nic/NoMoreGlobalTrade/master/"
+	],
+	"supportUrl": "https://github.com/Phr3nic/NoMoreGlobalTrade/issues",
+	"version": "1.0"
+}
