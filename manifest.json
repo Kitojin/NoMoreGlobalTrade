@@ -1,8 +1,8 @@
 {
 	"files": {
-		"index.js": "a93e9f16a51ca4705f64b11ee8070b6a35ee1bc19639a2d78fa49474f00cee46",
-		"module.json": "35b11ad40e30eb3bd3354f6778c6d490c40e701e85b336a5522f30083317d2d8",
-		"settings.js": "c5fce31ca0d71380440fa95a6184ae7c02dafa179a0d2b7d9267d4b9ff38f999"
+		"index.js": "a63f9ddbaa77dc360a33e9a43db9f414161c05f428f15420c47144ca821c72bb",
+		"module.json": "0c376878241f7e80c5dc85354b616cad2b0073eb64878ee701e6d8d81176b402",
+		"settings.js": "327711906aae118db03c087e68daf5935707a5c92a400eb9d7a087f32da75fdc"
 	},
 	"defs": {
 		"S_CHAT": 3
